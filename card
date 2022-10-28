@@ -1,0 +1,10 @@
+<div class="card">
+                        <img src="https://source.unsplash.com/600x400/?art" class="card-img-top" id="immagine1">
+                        <div class="card-body">
+                            <div id="titolo"></div>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit
+                            ucimus voluptas quaerat?</p>
+                            <div id="prezzo"></div>
+                            <a href="#" class="btn btn-primary"><i class="bi bi-cart"></i></a>
+                        </div>
+                    </div>
